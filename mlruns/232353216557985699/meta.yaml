@@ -1,0 +1,6 @@
+artifact_location: file:C:/Users/javie/OneDrive/mlflow-deploy-guia_CI_CD/mlruns/232353216557985699
+creation_time: 1777918756134
+experiment_id: '232353216557985699'
+last_update_time: 1777918756134
+lifecycle_stage: active
+name: ci-cd-mlflow-local
